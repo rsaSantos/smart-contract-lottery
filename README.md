@@ -11,3 +11,6 @@ How to test the Lottery contract?
 1. 'mainnet-fork'
 2. 'development' with mocks
 3. 'testnet' (kovan)
+
+This contract was deployed at Kovan testnet!
+Contract address: 0xe49CfD3A5D88A504D360ea83515834F9c660dE31

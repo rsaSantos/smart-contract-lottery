@@ -1,6 +1,6 @@
 # smart-contract-lottery
 This contract was deployed at Kovan testnet!
-Contract address: 0xe49CfD3A5D88A504D360ea83515834F9c660dE31
+Contract address: 0xe49CfD3A5D88A504D360ea83515834F9c660dE31 (https://kovan.etherscan.io/address/0xe49cfd3a5d88a504d360ea83515834f9c660de31)
 
 # Lesson 7: [SmartContract Lottery](https://www.youtube.com/watch?v=M576WGiDBdQ&t=22298s)
 💻 Code: https://github.com/rsaSantos/smart-contract-lottery
